@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarry16&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarry16)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m **@Leecarry16**
 - 👀 I’m interested in **'AI'** and **'NLP'**
