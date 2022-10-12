@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Leecarry16
+- 👋 Hi, I’m **@Leecarry16**
 - 👀 I’m interested in **'AI'** and **'NLP'**
-- 🌱 I’m currently learning **'NLP'** and some **Python** 
+- 🌱 I’m currently learning **'NLP'** and some **Python Programming** 
 - 📫 reach me by Email : kesm03122@gmail.com
 
 <!---
