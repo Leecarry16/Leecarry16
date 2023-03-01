@@ -3,8 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarry16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m **@Leecarry16**
-- 👀 I’m interested in **'AI'** and **'NLP'**
-- 🌱 I’m currently learning **'NLP'** and some **Python Programming** 
+- 👀 I’m interested in **'ML (CV, NLP)'**
 - 📫 reach me by Email : kesm03122@gmail.com
 
 <!---
